@@ -1,3 +1,3 @@
-- 👋 Hi, I’m **@imfrank6**
+- 👋 Hi, I’m **@imdoyle**
 - 👀 I’m interested in **AI**
 - 🌱 I’m currently learning **Python**
